@@ -22,7 +22,8 @@ function Footer() {
             <PictureAsPdf titleAccess="Picture" />
           </a>
         </div>
-        <p>&copy; 2024 palermor.com</p>
+        <p>robertpalermo3889@gmail.com</p>
+        <p>&copy; 2024 rpalermo3889.github.io/RobertPalermo/</p>
     </div>
   )
 }
